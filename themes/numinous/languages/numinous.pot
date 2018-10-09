@@ -1,0 +1,748 @@
+# <!=Copyright (C) 2018 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Numinous 1.1.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-05-30 05:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#: 404.php:12
+msgid "404!"
+msgstr ""
+
+#: 404.php:14
+msgid "The requested page cannot be found"
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"We're really sorry! Something went wrong trying to display the page, Please "
+"try one of these instead"
+msgstr ""
+
+#: 404.php:20
+msgid "Back to homepage"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr ""
+
+#: inc/custom-functions.php:45
+msgid "Primary"
+msgstr ""
+
+#: inc/custom-functions.php:263
+msgid "Name*"
+msgstr ""
+
+#: inc/custom-functions.php:265
+msgid "Email*"
+msgstr ""
+
+#: inc/custom-functions.php:267
+msgid "Website"
+msgstr ""
+
+#: inc/custom-functions.php:282
+msgid "Comment"
+msgstr ""
+
+#: inc/custom-functions.php:284
+msgid "Submit"
+msgstr ""
+
+#: inc/extras.php:39
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/extras.php:39
+msgid "1 Comment"
+msgstr ""
+
+#: inc/extras.php:39
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/extras.php:95 template-parts/content-page.php:39
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/extras.php:144
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:150
+msgid "Edit"
+msgstr ""
+
+#: inc/extras.php:265
+msgid "Page"
+msgstr ""
+
+#: inc/extras.php:292 inc/customizer/social.php:51
+msgid "Facebook"
+msgstr ""
+
+#: inc/extras.php:294 inc/customizer/social.php:70
+msgid "Twitter"
+msgstr ""
+
+#: inc/extras.php:296 inc/customizer/social.php:88
+msgid "Pinterest"
+msgstr ""
+
+#: inc/extras.php:298 inc/customizer/social.php:106
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/extras.php:300 inc/customizer/social.php:124
+msgid "Google Plus"
+msgstr ""
+
+#: inc/extras.php:302 inc/customizer/social.php:142
+msgid "Instagram"
+msgstr ""
+
+#: inc/extras.php:304 inc/customizer/social.php:160
+msgid "YouTube"
+msgstr ""
+
+#: inc/extras.php:306 inc/customizer/social.php:178
+msgid "OK"
+msgstr ""
+
+#: inc/extras.php:308 inc/customizer/social.php:196
+msgid "VK"
+msgstr ""
+
+#: inc/extras.php:310 inc/customizer/social.php:214
+msgid "Xing"
+msgstr ""
+
+#: inc/metabox.php:12
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:24
+msgid "Right Sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:29
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-functions.php:91 inc/customizer/header.php:59
+msgid "Breaking News"
+msgstr ""
+
+#: inc/template-functions.php:290 inc/template-functions.php:337
+#: inc/template-functions.php:1064
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: inc/template-functions.php:368 inc/customizer/home.php:219
+msgid "Top News"
+msgstr ""
+
+#: inc/template-functions.php:504
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: inc/template-functions.php:509 inc/template-functions.php:680
+msgid "404 Error - Page not Found"
+msgstr ""
+
+#: inc/template-functions.php:534 inc/customizer/breadcrumb.php:78
+msgid ">"
+msgstr ""
+
+#: inc/template-functions.php:535 inc/customizer/breadcrumb.php:60
+msgid "Home"
+msgstr ""
+
+#: inc/template-functions.php:585
+msgid "Search Results for \""
+msgstr ""
+
+#: inc/template-functions.php:585
+msgid "\""
+msgstr ""
+
+#: inc/template-functions.php:588 inc/template-functions.php:589
+#: inc/template-functions.php:593 inc/template-functions.php:593
+#: inc/template-functions.php:597 inc/template-functions.php:1150
+msgid "Y"
+msgstr ""
+
+#: inc/template-functions.php:589
+msgid "m"
+msgstr ""
+
+#: inc/template-functions.php:589 inc/template-functions.php:594
+msgid "F"
+msgstr ""
+
+#: inc/template-functions.php:590
+msgid "d"
+msgstr ""
+
+#: inc/template-functions.php:638
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-functions.php:777
+msgid "About Admin"
+msgstr ""
+
+#: inc/template-functions.php:820 inc/template-functions.php:856
+msgid "Similar Posts"
+msgstr ""
+
+#: inc/template-functions.php:892
+#, php-format
+msgid "Showing %s results"
+msgstr ""
+
+#: inc/template-functions.php:1150
+msgid "&copy; Copyright "
+msgstr ""
+
+#: inc/template-functions.php:1155
+msgid "Numinous by Rara Theme"
+msgstr ""
+
+#: inc/template-functions.php:1156
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: inc/template-functions.php:1156
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/woocommerce-functions.php:36
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:38
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: template-parts/content-archive.php:30 template-parts/content-page.php:27
+#: template-parts/content-single.php:32 template-parts/content.php:29
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-search.php:10 template-parts/content.php:10
+#: inc/customizer/post.php:46
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:27
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer/ads.php:14
+msgid "AD Settings"
+msgstr ""
+
+#: inc/customizer/ads.php:15
+msgid "Header & Footer AD Settings"
+msgstr ""
+
+#: inc/customizer/ads.php:33
+msgid "Enable Header AD"
+msgstr ""
+
+#: inc/customizer/ads.php:51
+msgid "Enable Footer AD"
+msgstr ""
+
+#: inc/customizer/ads.php:69
+msgid "Open Link in Different Tab"
+msgstr ""
+
+#: inc/customizer/ads.php:89
+msgid "Upload Header AD"
+msgstr ""
+
+#: inc/customizer/ads.php:109
+msgid "Header AD Link"
+msgstr ""
+
+#: inc/customizer/ads.php:129
+msgid "Upload Footer AD"
+msgstr ""
+
+#: inc/customizer/ads.php:149
+msgid "Footer AD Link"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:14
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:32
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:50
+msgid "Show current"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:68
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:86
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer/catcolor.php:14
+msgid "Category Color Settings"
+msgstr ""
+
+#: inc/customizer/catcolor.php:15
+msgid "Choose color for specific category."
+msgstr ""
+
+#: inc/customizer/customizer.php:9
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/customizer/default.php:17
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer/default.php:18
+msgid "Default section provided by WordPress customizer."
+msgstr ""
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer.php:31
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/customizer/header.php:21 inc/customizer/home.php:29
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer/header.php:30
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/header.php:48
+msgid "Enable Search Form"
+msgstr ""
+
+#: inc/customizer/header.php:49
+msgid "Check to enable search from in header."
+msgstr ""
+
+#: inc/customizer/header.php:67
+msgid "Breaking News Label"
+msgstr ""
+
+#: inc/customizer/header.php:68
+msgid "Leave blank to display Breaking News Category Name"
+msgstr ""
+
+#: inc/customizer/header.php:86
+msgid "Breaking News Category"
+msgstr ""
+
+#: inc/customizer/home.php:13 inc/customizer/slider.php:13
+msgid "Choose Post"
+msgstr ""
+
+#: inc/customizer/home.php:40
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer/home.php:41
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#: inc/customizer/home.php:50
+msgid "Featured Post Section"
+msgstr ""
+
+#: inc/customizer/home.php:68
+msgid "Enable Featured Post Section in Home Page"
+msgstr ""
+
+#: inc/customizer/home.php:86
+msgid "Enable Featured Post Section in Archive Page"
+msgstr ""
+
+#: inc/customizer/home.php:104 inc/customizer/home.php:245
+#: inc/customizer/slider.php:130
+msgid "Select Post One"
+msgstr ""
+
+#: inc/customizer/home.php:123 inc/customizer/home.php:264
+#: inc/customizer/slider.php:149
+msgid "Select Post Two"
+msgstr ""
+
+#: inc/customizer/home.php:142 inc/customizer/home.php:283
+#: inc/customizer/slider.php:168
+msgid "Select Post Three"
+msgstr ""
+
+#: inc/customizer/home.php:161 inc/customizer/home.php:302
+#: inc/customizer/slider.php:187
+msgid "Select Post Four"
+msgstr ""
+
+#: inc/customizer/home.php:180 inc/customizer/slider.php:206
+msgid "Select Post Five"
+msgstr ""
+
+#: inc/customizer/home.php:191
+msgid "Top News Section"
+msgstr ""
+
+#: inc/customizer/home.php:209
+msgid "Enable Top News Section"
+msgstr ""
+
+#: inc/customizer/home.php:227
+msgid "Top News Label"
+msgstr ""
+
+#: inc/customizer/home.php:313
+msgid "Category Section"
+msgstr ""
+
+#: inc/customizer/home.php:331
+msgid "Select Category One"
+msgstr ""
+
+#: inc/customizer/home.php:350
+msgid "Select Category Two"
+msgstr ""
+
+#: inc/customizer/home.php:369
+msgid "Select Category Three"
+msgstr ""
+
+#: inc/customizer/home.php:388
+msgid "Select Category Four"
+msgstr ""
+
+#: inc/customizer/home.php:407
+msgid "Select Category Five"
+msgstr ""
+
+#: inc/customizer/info.php:11
+msgid "Information Links"
+msgstr ""
+
+#: inc/customizer/info.php:21
+msgid "Need help?"
+msgstr ""
+
+#: inc/customizer/info.php:22
+msgid "View demo"
+msgstr ""
+
+#: inc/customizer/info.php:22 inc/customizer/info.php:23
+#: inc/customizer/info.php:24 inc/customizer/info.php:25
+#: inc/customizer/info.php:26
+msgid "here"
+msgstr ""
+
+#: inc/customizer/info.php:23
+msgid "View documentation"
+msgstr ""
+
+#: inc/customizer/info.php:24
+msgid "Download Zip"
+msgstr ""
+
+#: inc/customizer/info.php:25
+msgid "Support ticket"
+msgstr ""
+
+#: inc/customizer/info.php:26
+msgid "More Details"
+msgstr ""
+
+#: inc/customizer/info.php:30
+msgid "About Numinous"
+msgstr ""
+
+#: inc/customizer/info.php:148
+msgid "Pro Available"
+msgstr ""
+
+#: inc/customizer/info.php:150
+msgid "VIEW PRO THEME"
+msgstr ""
+
+#: inc/customizer/post.php:14
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/post.php:32
+msgid "Related Post Taxonomy"
+msgstr ""
+
+#: inc/customizer/post.php:36
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/post.php:37
+msgid "Tag"
+msgstr ""
+
+#: inc/customizer/post.php:54
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/post.php:72
+msgid "Post Excerpt Character"
+msgstr ""
+
+#: inc/customizer/slider.php:22
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/slider.php:40
+msgid "Enable Footer Slider"
+msgstr ""
+
+#: inc/customizer/slider.php:58
+msgid "Enable Slider Auto Transition"
+msgstr ""
+
+#: inc/customizer/slider.php:76
+msgid "Enable Slider Loop"
+msgstr ""
+
+#: inc/customizer/slider.php:94
+msgid "Enable Slider Control"
+msgstr ""
+
+#: inc/customizer/slider.php:112
+msgid "Enable Slider Caption"
+msgstr ""
+
+#: inc/customizer/slider.php:225
+msgid "Select Post Six"
+msgstr ""
+
+#: inc/customizer/slider.php:244
+msgid "Select Post Seven"
+msgstr ""
+
+#: inc/customizer/social.php:14
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer/social.php:15
+msgid "Leave blank if you do not want to show the social link."
+msgstr ""
+
+#: inc/customizer/social.php:33
+msgid "Enable Social Links in Header"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:27
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:41
+#: inc/widgets/widget-popular-post.php:92
+#: inc/widgets/widget-popular-post.php:135
+msgid "Most Viewed"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:100
+#: inc/widgets/widget-recent-post.php:99 inc/widgets/widget-social-links.php:65
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:105
+#: inc/widgets/widget-recent-post.php:104
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:111
+#: inc/widgets/widget-recent-post.php:110
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:116
+#: inc/widgets/widget-recent-post.php:115
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: inc/widgets/widget-recent-post.php:27
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: inc/widgets/widget-recent-post.php:41 inc/widgets/widget-recent-post.php:91
+#: inc/widgets/widget-recent-post.php:134
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:27
+msgid "A Social Links Widget."
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:70
+msgid ""
+"You can change the social links from the customizer in Social Settings "
+"options."
+msgstr ""
+
+#: inc/widgets/widgets.php:16
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:18
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:26
+msgid "Footer One"
+msgstr ""
+
+#: inc/widgets/widgets.php:28
+msgid "Add footer one widget here."
+msgstr ""
+
+#: inc/widgets/widgets.php:36
+msgid "Footer Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:38
+msgid "Add footer two widget here."
+msgstr ""
+
+#: inc/widgets/widgets.php:46
+msgid "Footer Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:48
+msgid "Add footer three widget here."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Numinous"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Numinous is a clean and elegant Magazine WordPress theme. It is a responsive "
+"magazine style WordPress theme suitable for news, newspaper, magazine, food, "
+"technology, viral content websites. The theme is easily customisable using "
+"the options available on the customizer. Designed with visitor engagement in "
+"mind, the theme has a clean layout and great typography to create a "
+"beautiful looking website and adds up to a great user experience. The theme "
+"is developed using SEO in mind, so that you can easily climb the Google "
+"ranking. The theme comes with several custom widgets that can be placed on "
+"various widget areas in the theme. It also had colour options for the "
+"category. The theme is also translation ready. Check the demo at https:"
+"//raratheme.com/preview/numinous, documentation at https://raratheme."
+"com/documentation/numinous and get support at https://raratheme.com/support-"
+"ticket"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://raratheme.com/wordpress-themes/numinous/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://raratheme.com/"
+msgstr ""

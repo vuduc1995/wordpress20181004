@@ -1,0 +1,701 @@
+# Translation of Themes - Numinous in Vietnamese
+# This file is distributed under the same license as the Themes - Numinous package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-29 07:40:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Numinous\n"
+
+#. Description of the plugin/theme
+msgid "Numinous is a clean and elegant Magazine WordPress theme. It is a responsive magazine style WordPress theme suitable for news, newspaper, magazine, food, technology, viral content websites. The theme is easily customisable using the options available on the customizer. Designed with visitor engagement in mind, the theme has a clean layout and great typography to create a beautiful looking website and adds up to a great user experience. The theme is developed using SEO in mind, so that you can easily climb the Google ranking. The theme comes with several custom widgets that can be placed on various widget areas in the theme. It also had colour options for the category. The theme is also translation ready. Check the demo at https://raratheme.com/preview/numinous, documentation at https://raratheme.com/documentation/numinous and get support at https://raratheme.com/support-ticket"
+msgstr "Numinous là một giao diện Wordpress tuyệt đẹp dành cho ngành tạp chí. Giao diện Wordpress mang một phong cách thanh lịch, phù hợp với tin tức, báo, tạp chí, thực phẩm, công nghệ, các trang web nội dung liên quan. Giao diện được dễ dàng tùy chỉnh bằng cách sử dụng trình tùy chỉnh có sẵn. Giao diện được thiết kế với sự tham gia và quan tâm của khách truy cập, do đó giao diện có bố cục dễ sử dụng và kiểu chữ đẹp để tạo ra một trang web tuyệt vời với sự trải nghiệm của độc giả. Giao diện được quan tâm trong việc phát triển và sử dụng SEO, để bạn có thể dễ dàng leo lên bảng xếp hạng của Google. Giao diện đi kèm với một số widgets tùy chỉnh được đặt vào những nơi khác nhau trong chủ đề. Có thể lựa chọn màu sắc cho từng thể loại của giao diện.  It also had colour options for the category. Giao diện cũng được dịch sẵn. . Kiểm tra demo tại https://raratheme.com/preview/numinous, tài liệu tại https://raratheme.com/documentation/numinous và nhận hỗ trợ tại https://raratheme.com/support-ticket"
+
+#. Theme Name of the plugin/theme
+msgid "Numinous"
+msgstr "Numinous"
+
+#: inc/customizer/footer.php:31
+msgid "Copyright Info"
+msgstr "Thông tin bản quyền"
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr "Cài đặt chân trang"
+
+#: inc/template-functions.php:817 inc/template-functions.php:853
+msgid "Similar Posts"
+msgstr "Bài viết tương tự"
+
+#: inc/template-functions.php:287 inc/template-functions.php:334
+#: inc/template-functions.php:1061
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s trước"
+
+#: inc/customizer/social.php:214 inc/extras.php:313
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer/social.php:196 inc/extras.php:311
+msgid "VK"
+msgstr "VK"
+
+#: inc/customizer/social.php:178 inc/extras.php:309
+msgid "OK"
+msgstr "OK"
+
+#: inc/woocommerce-functions.php:38
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Thanh bên hiển thị chỉ trong các trang woocommerce."
+
+#: inc/woocommerce-functions.php:36
+msgid "Shop Sidebar"
+msgstr "Sidebar cửa hàng"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp đỡ."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: template-parts/content-archive.php:30 template-parts/content-page.php:27
+#: template-parts/content-single.php:32 template-parts/content.php:29
+msgid "Pages:"
+msgstr "Trang:"
+
+#: inc/widgets/widgets.php:48
+msgid "Add footer three widget here."
+msgstr "Thêm chân trang ba phụ tùng ở đây."
+
+#: inc/widgets/widgets.php:46
+msgid "Footer Three"
+msgstr "Cuối trang Ba"
+
+#: inc/widgets/widgets.php:38
+msgid "Add footer two widget here."
+msgstr "Thêm footer hai widget ở đây."
+
+#: inc/widgets/widgets.php:36
+msgid "Footer Two"
+msgstr "Cuối trang hai"
+
+#: inc/widgets/widgets.php:28
+msgid "Add footer one widget here."
+msgstr "Thêm chân trang một tiện ích tại đây."
+
+#: inc/widgets/widgets.php:26
+msgid "Footer One"
+msgstr "Cuối trang đầu tiên"
+
+#: inc/widgets/widgets.php:18
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây."
+
+#: inc/widgets/widgets.php:16
+msgid "Right Sidebar"
+msgstr "Sidebar bên phải"
+
+#: inc/widgets/widget-social-links.php:70
+msgid "You can change the social links from the customizer in Social Settings options."
+msgstr "Bạn có thể thay đổi các liên kết xã hội từ customizer trong các tùy chọn Cài đặt xã hội ."
+
+#: inc/widgets/widget-social-links.php:27
+msgid "A Social Links Widget."
+msgstr "Widget Liên kết mạng xã hội."
+
+#: inc/widgets/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr "RARA: Liên kết mạng xã hội"
+
+#: inc/widgets/widget-recent-post.php:41 inc/widgets/widget-recent-post.php:91
+#: inc/widgets/widget-recent-post.php:134
+msgid "Recent Posts"
+msgstr "Bài gần đây"
+
+#: inc/widgets/widget-recent-post.php:27
+msgid "A Recent Post Widget"
+msgstr "Widget bài viết gần đây"
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "RARA: Recent Post"
+msgstr "RARA: Bài viết gần đây"
+
+#: inc/widgets/widget-popular-post.php:116
+#: inc/widgets/widget-recent-post.php:115
+msgid "Show Post Date"
+msgstr "Hiển thị ngày bài viết"
+
+#: inc/widgets/widget-popular-post.php:111
+#: inc/widgets/widget-recent-post.php:110
+msgid "Show Post Thumbnail"
+msgstr "Hiển thị hình thu nhỏ bài viết"
+
+#: inc/widgets/widget-popular-post.php:105
+#: inc/widgets/widget-recent-post.php:104
+msgid "Number of Posts"
+msgstr "Số bài viết"
+
+#: inc/widgets/widget-popular-post.php:100
+#: inc/widgets/widget-recent-post.php:99 inc/widgets/widget-social-links.php:65
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/widgets/widget-popular-post.php:41
+#: inc/widgets/widget-popular-post.php:92
+#: inc/widgets/widget-popular-post.php:135
+msgid "Most Viewed"
+msgstr "Xem nhiều nhất"
+
+#: inc/widgets/widget-popular-post.php:27
+msgid "A Popular Post Widget"
+msgstr "Widget bài viết phổ biến"
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "RARA: Popular Post"
+msgstr "RARA: Bài viết phổ biến"
+
+#: inc/template-functions.php:1153
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-functions.php:1153
+msgid "Powered by %s"
+msgstr "Được hỗ trợ bởi %s"
+
+#: inc/template-functions.php:1152
+msgid "Numinous by Rara Theme"
+msgstr "Numinous by Rara Chủ đề"
+
+#: inc/template-functions.php:1147
+msgid "&copy; Copyright "
+msgstr "&Sao chép; Bản quyền "
+
+#: inc/template-functions.php:889
+msgid "Showing %s results"
+msgstr "Hiển thị %s các kết quả"
+
+#: inc/template-functions.php:774
+msgid "About Admin"
+msgstr "Giới thiệu Admin"
+
+#: inc/template-functions.php:635
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: inc/template-functions.php:587
+msgid "d"
+msgstr "d"
+
+#: inc/template-functions.php:586 inc/template-functions.php:591
+msgid "F"
+msgstr "F"
+
+#: inc/template-functions.php:586
+msgid "m"
+msgstr "m"
+
+#: inc/template-functions.php:585 inc/template-functions.php:586
+#: inc/template-functions.php:590 inc/template-functions.php:594
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:582
+msgid "\""
+msgstr "\""
+
+#: inc/template-functions.php:582
+msgid "Search Results for \""
+msgstr "Tìm kiếm kết quả cho \""
+
+#: inc/template-functions.php:506 inc/template-functions.php:677
+msgid "404 Error - Page not Found"
+msgstr "Lỗi 404 - Không tìm thấy trang"
+
+#: inc/template-functions.php:501
+msgid "Search Results for %s"
+msgstr "Tìm kiếm kết quả cho %s"
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr "Chọn Mẫu Sidebar"
+
+#: inc/metabox.php:29
+msgid "No Sidebar"
+msgstr "Không có Sidebar"
+
+#: inc/metabox.php:24
+msgid "Right Sidebar (default)"
+msgstr "Thanh bên phải ( mặc định )"
+
+#: inc/metabox.php:12
+msgid "Sidebar Layout"
+msgstr "Bố cục Sidebar"
+
+#: inc/extras.php:268
+msgid "Page"
+msgstr "Trang"
+
+#: inc/extras.php:153
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: inc/extras.php:147
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ kiểm duyệt."
+
+#. translators: %s: Name of current post
+#: inc/extras.php:95 template-parts/content-page.php:39
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#: inc/extras.php:39
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: inc/extras.php:39
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: inc/extras.php:39
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#: inc/customizer/social.php:160 inc/extras.php:307
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer/social.php:142 inc/extras.php:305
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/social.php:124 inc/extras.php:303
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer/social.php:106 inc/extras.php:301
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/social.php:88 inc/extras.php:299
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/social.php:70 inc/extras.php:297
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/social.php:51 inc/extras.php:295
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/social.php:33
+msgid "Enable Social Links in Header"
+msgstr "Bật Liên kết mạng Xã hội trong Tiêu đề"
+
+#: inc/customizer/social.php:15
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Để trống nếu bạn không muốn hiển thị liên kết xã hội."
+
+#: inc/customizer/social.php:14
+msgid "Social Settings"
+msgstr "Thiết lập mạng xã hội"
+
+#: inc/customizer/slider.php:244
+msgid "Select Post Seven"
+msgstr "Chọn Đăng bảy"
+
+#: inc/customizer/slider.php:225
+msgid "Select Post Six"
+msgstr "Chọn bảy bài viết"
+
+#: inc/customizer/slider.php:112
+msgid "Enable Slider Caption"
+msgstr "Bật Phụ đề Slider"
+
+#: inc/customizer/slider.php:94
+msgid "Enable Slider Control"
+msgstr "Bật điều khiển trượt"
+
+#: inc/customizer/slider.php:76
+msgid "Enable Slider Loop"
+msgstr "Bật thanh vòng lặp trình chiếu"
+
+#: inc/customizer/slider.php:58
+msgid "Enable Slider Auto Transition"
+msgstr "Bật tự động chuyển trình chiếu"
+
+#: inc/customizer/slider.php:40
+msgid "Enable Footer Slider"
+msgstr "Bật Thanh trượt chân"
+
+#: inc/customizer/slider.php:22
+msgid "Slider Settings"
+msgstr "Cài đặt thanh trượt"
+
+#: inc/customizer/post.php:72
+msgid "Post Excerpt Character"
+msgstr "Ký tự trích dẫn bài viết"
+
+#: inc/customizer/post.php:54
+msgid "Read More Text"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/customizer/post.php:46 template-parts/content-search.php:10
+#: template-parts/content.php:10
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/customizer/post.php:37
+msgid "Tag"
+msgstr "Tag"
+
+#: inc/customizer/post.php:36
+msgid "Category"
+msgstr "thể loại"
+
+#: inc/customizer/post.php:32
+msgid "Related Post Taxonomy"
+msgstr "Phân loại bài viết liên quan"
+
+#: inc/customizer/post.php:14
+msgid "Post Settings"
+msgstr "Cài đặt Đăng viết"
+
+#: inc/customizer/info.php:149
+msgid "VIEW PRO THEME"
+msgstr "XEM THEME BẢN PRO"
+
+#: inc/customizer/info.php:147
+msgid "Pro Available"
+msgstr "Pro sẵn có"
+
+#: inc/customizer/info.php:29
+msgid "About Numinous"
+msgstr "Về Numinous"
+
+#: inc/customizer/info.php:25
+msgid "More Details"
+msgstr "Chi tiết hơn"
+
+#: inc/customizer/info.php:24
+msgid "Support ticket"
+msgstr "Nhận Hỗ trợ"
+
+#: inc/customizer/info.php:23
+msgid "View documentation"
+msgstr "Xem tài liệu"
+
+#: inc/customizer/info.php:22 inc/customizer/info.php:23
+#: inc/customizer/info.php:24 inc/customizer/info.php:25
+msgid "here"
+msgstr "đây"
+
+#: inc/customizer/info.php:22
+msgid "View demo"
+msgstr "Xem demo"
+
+#: inc/customizer/info.php:21
+msgid "Need help?"
+msgstr "Cần giúp đỡ?"
+
+#: inc/customizer/info.php:11
+msgid "Information Links"
+msgstr "Liên kết thông tin"
+
+#: inc/customizer/home.php:407
+msgid "Select Category Five"
+msgstr "Chọn Năm thể loại"
+
+#: inc/customizer/home.php:388
+msgid "Select Category Four"
+msgstr "Chọn Bốn thể loại"
+
+#: inc/customizer/home.php:369
+msgid "Select Category Three"
+msgstr "Chọn Ba thể loại"
+
+#: inc/customizer/home.php:350
+msgid "Select Category Two"
+msgstr "Chọn Hai thể loại"
+
+#: inc/customizer/home.php:331
+msgid "Select Category One"
+msgstr "Chọn Một thể loại"
+
+#: inc/customizer/home.php:313
+msgid "Category Section"
+msgstr "Phần Chuyên mục"
+
+#: inc/customizer/home.php:227
+msgid "Top News Label"
+msgstr "Nhãn hiệu hàng đầu"
+
+#: inc/customizer/home.php:219 inc/template-functions.php:365
+msgid "Top News"
+msgstr "Tin tức hàng đầu"
+
+#: inc/customizer/home.php:209
+msgid "Enable Top News Section"
+msgstr "Bật phần Tin tức hàng đầu"
+
+#: inc/customizer/home.php:191
+msgid "Top News Section"
+msgstr "Phần tin tức hàng đầu"
+
+#: inc/customizer/home.php:180 inc/customizer/slider.php:206
+msgid "Select Post Five"
+msgstr "Chọn Năm Bài viết"
+
+#: inc/customizer/home.php:161 inc/customizer/home.php:302
+#: inc/customizer/slider.php:187
+msgid "Select Post Four"
+msgstr "Chọn Bốn Bài viết"
+
+#: inc/customizer/home.php:142 inc/customizer/home.php:283
+#: inc/customizer/slider.php:168
+msgid "Select Post Three"
+msgstr "Chọn Ba Bài viết"
+
+#: inc/customizer/home.php:123 inc/customizer/home.php:264
+#: inc/customizer/slider.php:149
+msgid "Select Post Two"
+msgstr "Chọn Hai Bài Viết"
+
+#: inc/customizer/home.php:104 inc/customizer/home.php:245
+#: inc/customizer/slider.php:130
+msgid "Select Post One"
+msgstr "Chọn Một Bài Viết"
+
+#: inc/customizer/home.php:86
+msgid "Enable Featured Post Section in Archive Page"
+msgstr "Bật mục bài đăng nổi bật trong trang lưu trữ"
+
+#: inc/customizer/home.php:68
+msgid "Enable Featured Post Section in Home Page"
+msgstr "Kích hoạt tính năng nổi bật bài viết Mục trong Trang Chủ"
+
+#: inc/customizer/home.php:50
+msgid "Featured Post Section"
+msgstr "Mục bài viết nổi bật"
+
+#: inc/customizer/home.php:41
+msgid "Customize Home Page Settings"
+msgstr "Tùy chỉnh Cài đặt Trang chủ"
+
+#: inc/customizer/home.php:40
+msgid "Home Page Settings"
+msgstr "Cài đặt Trang chủ"
+
+#: inc/customizer/home.php:13 inc/customizer/slider.php:13
+msgid "Choose Post"
+msgstr "Chọn bài viết"
+
+#: inc/customizer/header.php:86
+msgid "Breaking News Category"
+msgstr "Thể loại tin giật gân"
+
+#: inc/customizer/header.php:68
+msgid "Leave blank to display Breaking News Category Name"
+msgstr "Để trống để hiển thị Tên thể loại tin giật gân"
+
+#: inc/customizer/header.php:67
+msgid "Breaking News Label"
+msgstr "Nhãntin giật gân"
+
+#: inc/customizer/header.php:59 inc/template-functions.php:91
+msgid "Breaking News"
+msgstr "Tin giật gân"
+
+#: inc/customizer/header.php:49
+msgid "Check to enable search from in header."
+msgstr "Hãy kiểm tra để cho phép tìm kiếm từ trong tiêu đề."
+
+#: inc/customizer/header.php:48
+msgid "Enable Search Form"
+msgstr "Bật Biểu mẫu Tìm kiếm"
+
+#: inc/customizer/header.php:30
+msgid "Header Settings"
+msgstr "Cài đặt tiêu đề"
+
+#: inc/customizer/header.php:21 inc/customizer/home.php:29
+msgid "Choose Category"
+msgstr "Chọn Thể Loại"
+
+#: inc/customizer/default.php:18
+msgid "Default section provided by WordPress customizer."
+msgstr "Phần mặc định được cung cấp bởi WordPress customizer."
+
+#: inc/customizer/default.php:17
+msgid "Default Settings"
+msgstr "Thiết lập mặc định"
+
+#: inc/customizer/catcolor.php:15
+msgid "Choose color for specific category."
+msgstr "Chọn màu cho danh mục cụ thể."
+
+#: inc/customizer/catcolor.php:14
+msgid "Category Color Settings"
+msgstr "Cài đặt Danh mục Màu"
+
+#: inc/customizer/breadcrumb.php:86
+msgid "Breadcrumb Separator"
+msgstr "Đường dẫn Phân cách"
+
+#: inc/customizer/breadcrumb.php:78 inc/template-functions.php:531
+msgid ">"
+msgstr ">"
+
+#: inc/customizer/breadcrumb.php:68
+msgid "Breadcrumb Home Text"
+msgstr "Đường dẫn Trang chủ Tiêu đề"
+
+#: inc/customizer/breadcrumb.php:60 inc/template-functions.php:532
+msgid "Home"
+msgstr "Trang Chủ"
+
+#: inc/customizer/breadcrumb.php:50
+msgid "Show current"
+msgstr "Hiển thị hiện tại"
+
+#: inc/customizer/breadcrumb.php:32
+msgid "Enable Breadcrumb"
+msgstr "Kích hoạt tính năng Đường dẫn"
+
+#: inc/customizer/breadcrumb.php:14
+msgid "Breadcrumb Settings"
+msgstr "Cài đặt Đường dẫn"
+
+#: inc/customizer/ads.php:149
+msgid "Footer AD Link"
+msgstr "Liên kết ADC chân trang"
+
+#: inc/customizer/ads.php:129
+msgid "Upload Footer AD"
+msgstr "Tải lên chân trang AD"
+
+#: inc/customizer/ads.php:109
+msgid "Header AD Link"
+msgstr "Liên kết AD Tiêu đề"
+
+#: inc/customizer/ads.php:89
+msgid "Upload Header AD"
+msgstr "Tải lên header AD"
+
+#: inc/customizer/ads.php:69
+msgid "Open Link in Different Tab"
+msgstr "Mở liên kết trong tab khác"
+
+#: inc/customizer/ads.php:51
+msgid "Enable Footer AD"
+msgstr "Bật quảng cáo chân trang"
+
+#: inc/customizer/ads.php:33
+msgid "Enable Header AD"
+msgstr "Bật Header AD"
+
+#: inc/customizer/ads.php:15
+msgid "Header & Footer AD Settings"
+msgstr "Cài đặt AD Đầu trang & cuối trang trang"
+
+#: inc/customizer/ads.php:14
+msgid "AD Settings"
+msgstr "Cài đặt AD"
+
+#: inc/custom-functions.php:292
+msgid "Submit"
+msgstr "Gửi"
+
+#: inc/custom-functions.php:290
+msgid "Comment"
+msgstr "Bình luận"
+
+#: inc/custom-functions.php:275
+msgid "Website"
+msgstr "Website"
+
+#: inc/custom-functions.php:273
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/custom-functions.php:271
+msgid "Name*"
+msgstr "Tên*"
+
+#: inc/custom-functions.php:45
+msgid "Primary"
+msgstr "Sơ cấp"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: comments.php:54
+msgid "Newer Comments"
+msgstr "Các bình luận mới hơn"
+
+#: comments.php:53
+msgid "Older Comments"
+msgstr "Các bình luận cũ hơn"
+
+#: comments.php:50
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Ý kiến"
+
+#: 404.php:20
+msgid "Back to homepage"
+msgstr "quay lại trang chủ"
+
+#: 404.php:16
+msgid "We're really sorry! Something went wrong trying to display the page, Please try one of these instead"
+msgstr "Chúng tôi thực sự xin lỗi! Đã xảy ra lỗi khi cố gắng hiển thị trang, Vui lòng thử một trong các thay đổi này"
+
+#: 404.php:14
+msgid "The requested page cannot be found"
+msgstr "Không thể tìm thấy trang yêu cầu"
+
+#: 404.php:12
+msgid "404!"
+msgstr "404!"
+
+#. Author URI of the plugin/theme
+msgid "https://raratheme.com/"
+msgstr "https://raratheme.com/"
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the plugin/theme
+msgid "https://raratheme.com/wordpress-themes/numinous/"
+msgstr "https://raratheme.com/wordpress-themes/numinous/"
